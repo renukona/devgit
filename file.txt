@@ -1,1 +1,6 @@
+
 This is to check conflit in master
+
+This is master branch file
+Also to check conflict
+
