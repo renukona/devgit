@@ -1,1 +1,2 @@
 This is master branch file
+Also to check conflict
